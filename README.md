@@ -2,7 +2,7 @@
 
 
 ## 💬 About Me
-I'm Colin.  I got into development a few months ago and then decided to make it a full-on career change.  I'm now a full-stack web developer who's passionate about front-end development.  I continuing to learn loads of technologies and techniques while improving my skills.  Outside of coding, I'm obsessed with competitive road cycling 🚴🏻‍♂️🚴🏻‍♀️
+I'm Colin.  I got into development in late 2022 and then decided to make it a full-on career change.  I'm now a full-stack web developer who's passionate about front-end development.  I continuing to learn loads of technologies and techniques while improving my skills.  Outside of coding, I'm obsessed with competitive road cycling 🚴🏻‍♂️🚴🏻‍♀️
 
 Technologies: 
 - The PERN stack:  PostgreSQL, Express, React.js, Node.js
