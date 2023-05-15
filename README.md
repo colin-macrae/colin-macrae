@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-macrae)](https://github.com/colin-macrae/github-readme-stats)
 
 
 ## 💬 About Me
