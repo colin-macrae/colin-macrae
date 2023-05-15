@@ -11,7 +11,7 @@ Technologies:
 - CSS3
 - Tools: Git, GitHub, VS Code, Chrome Dev Tools, Figma, Bootstrap, Slack, and more
 
-🌱 I’m currently learning: MongoDB, Typescript (learning soon)
+<!-- 🌱 I’m currently learning: MongoDB, Typescript (learning soon) -->
 
 ## 📫 Let's Connect!
 My LinkedIn: https://www.linkedin.com/in/colin-sean-macrae/
