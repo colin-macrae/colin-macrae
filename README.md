@@ -12,7 +12,7 @@ Technologies:
 - Tools: Git, GitHub, VS Code, Chrome Dev Tools, Figma, Google Cloud, Bootstrap, Slack, and more
 
 ## 📫 Let's Connect!
-My LinkedIn profile can be found here: https://www.linkedin.com/in/colin-sean-macrae/
+My LinkedIn: https://www.linkedin.com/in/colin-sean-macrae/
 
 
 <!--
