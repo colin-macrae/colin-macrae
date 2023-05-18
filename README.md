@@ -13,6 +13,7 @@ Technologies:
 - CSS3
 - Tools: Git, GitHub, VS Code, Chrome Dev Tools, Figma, Bootstrap, Slack
 
+
 <!-- 🌱 I’m currently learning: MongoDB, Typescript (learning soon) -->
 
 ## 📫 Let's Connect!
