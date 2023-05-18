@@ -4,7 +4,7 @@
 
 
 ## 💬 About Me
-I became interested in development in 2022.  After learning for a few weeks, I started to see it was a very good fit.  I then decided to make it a full-on career change.  I'm now a full-stack developer with a couple of projects under my belt and a more in the pipeline.  I continue to learn new technologies and techniques while improving my skills.  Outside of coding, I'm a bit obsessed with competitive road cycling 🚴🏻‍♂️🚴🏻‍♀️😁
+I became interested in development in 2022.  After learning for a few weeks, I started to see it was a very good fit, and then decided to make it a full-on career change.  I'm now a full-stack developer with a couple of projects under my belt and a more in the pipeline.  I continue to learn new technologies and techniques while improving my skills.  Outside of coding, I'm a bit obsessed with competitive road cycling 🚴🏻‍♂️🚴🏻‍♀️😁
 
 Technologies: 
 - The PERN stack:  PostgreSQL, Express, React.js, Node.js
