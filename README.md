@@ -11,7 +11,7 @@ Technologies:
 - JavaScript
 - HTML5
 - CSS3
-- Tools: Git, GitHub, VS Code, Chrome Dev Tools, Figma, Bootstrap, Slack, and more
+- Tools: Git, GitHub, VS Code, Chrome Dev Tools, Figma, Bootstrap, Slack
 
 <!-- 🌱 I’m currently learning: MongoDB, Typescript (learning soon) -->
 
