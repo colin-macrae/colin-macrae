@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-macrae&hide=stars,issues,contribs)](https://github.com/colin-macrae/github-readme-stats) -->
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-macrae&hide=stars,issues,contribs)](https://github.com/colin-macrae/github-readme-stats)
 
 
 ## 💬 About Me
