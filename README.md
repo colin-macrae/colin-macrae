@@ -6,7 +6,6 @@
 - React.js, Node.js, Express.js, PostgreSQL, AJAX
 - TypeScript, WordPress, PHP, Bootstrap, Flexbox, CSS Grid
 - Git, GitHub, VS Code, Chrome Dev Tools, Figma, Slack
-- Fluent in Mandarin Chinese
 
 ## 🌐 Web Development Experience
 - Actively contributing to various web applications through Hack for LA, a non-profit organization utilizing React, JavaScript, Github, and Slack.
@@ -19,6 +18,7 @@
 ## 💬 Skills
 - Strong communication skills honed through diverse roles and experiences.
 - Editing and proofreading for corporate, government, and educational institutions' documents.
+- Fluent in Mandarin Chinese
 
 ## 🔗 Let's Connect!
 - Actively seeking opportunities and collaborations. My LinkedIn: https://www.linkedin.com/in/colin-sean-macrae/
