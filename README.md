@@ -11,6 +11,7 @@
 - Actively contributing to various web applications through Hack for LA, a non-profit organization utilizing React, JavaScript, Github, and Slack.
 - Proactively involved in weekly standup meetings within the open-source website team.
 
+<!--
 ## 🌍 Professional Experience
 - **Project Manager, General Manager, Editor**
   - Oversaw procurement, managed comprehensive communications plans, and edited dissertations and research papers.
@@ -19,6 +20,7 @@
 - Strong communication skills honed through diverse roles and experiences.
 - Editing and proofreading for corporate, government, and educational institutions' documents.
 - Fluent in Mandarin Chinese
+-->
 
 ## 🔗 Let's Connect!
 - Actively seeking opportunities and collaborations. My LinkedIn: https://www.linkedin.com/in/colin-sean-macrae/
