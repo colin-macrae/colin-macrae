@@ -23,4 +23,4 @@
 -->
 
 ## 🔗 Let's Connect!
-- Actively seeking opportunities and collaborations. My LinkedIn: https://www.linkedin.com/in/colin-sean-macrae/
+- My LinkedIn: https://www.linkedin.com/in/colin-sean-macrae/
